@@ -11,4 +11,4 @@ cada departamento da empresa, os projetos da empresa e as relações desses com 
  * SQL
 
 ##Integrante
-*__Lucas Inacio de Souza__
+ * __Lucas Inacio de Souza__
