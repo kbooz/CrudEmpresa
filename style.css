@@ -1,0 +1,62 @@
+body{
+	font-family: sans-serif;
+	background: url("img/bg.png") repeat-y;
+}
+
+.tabela table, th, td{
+	border-collapse: collapse;
+	border: 1px solid #51686f;
+	padding: 2px;
+}
+
+.tabela table{
+	background-color: white;
+}
+
+.tabela #topo{
+	background-color: #2f6778;
+	color: white;
+}
+
+.tabela #subtopo{
+	background-color: #6593a1;
+	color: white;
+}
+
+.tabela #pe{
+	background-color: #25525f;
+	color: white;
+}
+
+.tabela #par{
+	background-color: #dcdcdc;
+}
+
+
+.tabela a:link, .tabela a:visited, .tabela a:active{
+	color: red;
+	text-decoration: none;
+}
+
+a:hover{
+	color: blue;
+	text-decoration: none;
+}
+
+.button{
+	background-color: #2f6778;
+	color: white;
+	width: 50px;
+	text-align: center;
+}
+
+.button a:link, .button a:visited, .button a:active{
+	color: white;
+	text-decoration: none;
+}
+
+.button a:hover{
+	color: gray;
+	text-decoration: none;
+}
+
