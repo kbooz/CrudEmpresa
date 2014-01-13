@@ -7,8 +7,8 @@ A prova consistia em criar uma administração crua, mas dinâmica de uma empres
 cada departamento da empresa, os projetos da empresa e as relações desses com os empregados
 
 ##Linguagem
-*Php
-*SQL
+ * Php
+ * SQL
 
 ##Integrante
 *__Lucas Inacio de Souza__
